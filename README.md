@@ -1,6 +1,9 @@
 Welcome to my public repository! This repository contains all my programming projects across different languages, including Python, C++, and more. Feel free to explore, use, and contribute!
 
-Repository Structure /Python_Projects/ - Contains Python scripts and applications /C++_Projects/ - Contains C++ programs and algorithms /Docs/ - Additional documentation
+Repository Structure 
+/Python_Projects/ - Contains Python scripts and applications 
+/C++_Projects/ - Contains C++ programs and algorithms 
+/Docs/ - Additional documentation
 
 Getting Started
 
